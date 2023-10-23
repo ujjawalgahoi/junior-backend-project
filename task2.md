@@ -1,3 +1,5 @@
+
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -29,3 +31,4 @@ private:
                isValidBSTHelper(node->right, node->val, upper);
     }
 };
+```
